@@ -1,6 +1,6 @@
 ---
 layout: post
-comments: true
+comments: false
 title:  "Synthetic Life: Not Finction Anymore"
 excerpt: "Synthetic life is coming. But ethical and societal challenges are awaiting us"
 date:   2010-05-21 11:00:00
@@ -17,4 +17,4 @@ Primitive but intrinsic impulses help us distinguish ethical choices when it com
 
 Does discovery of creating synthetic organic matter have ethical challenges? Sure it does. Does it demand stopping of such explorations? Definitely not. The benefits outweigh the problems. Even kitchen knives have other less humanistic uses. As a civilized society, do we have the right tools and ability to make ethical decisions? May be not. This is where democratic societies should focus on. 
 
- * ["Scientists create self-replicating synthetic life: Wired News"](http://www.wired.com/wiredscience/2010/05/scientists-create-first-self-replicating-synthetic-life/)
+ * [Scientists create self-replicating synthetic life: Wired News](http://www.wired.com/wiredscience/2010/05/scientists-create-first-self-replicating-synthetic-life/)
