@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title:  "Synthetic Life: Not Finction Anymore"
+title:  "Synthetic Life: Not Fiction Anymore"
 excerpt: "Synthetic life is coming. But ethical and societal challenges are awaiting us"
 date:   2010-05-21 12:00:00
 mathjax: false
