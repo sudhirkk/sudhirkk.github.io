@@ -2,6 +2,7 @@
 layout: page
 title: Initialization
 permalink: /init/
+---
 
 # Initialization
 
