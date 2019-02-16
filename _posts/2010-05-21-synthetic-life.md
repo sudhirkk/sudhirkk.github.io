@@ -11,8 +11,6 @@ Last night, browsing through emails from slashdot, one particular news story cau
 
 As expected, there came ethicists expressing their concerns. They fear that this could mean disaster to our kind. I hear them.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7HBEXs48qmo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 As an educated citizen, my problem is to make an educated guess about its ethical implications.The realm of ethics is all the more abstract in modern times. That is precisely why even presidential elections are marred with discussions on what is ethical and what is not. In a primitive form, ethics is part and parcel of human mind – a contraption that have been in the making over millions of years. But that ethical ground is shifted ever sine we moved out of caves and embraced agriculture and industrial production.
 
 Primitive but intrinsic impulses help us distinguish ethical choices when it comes to killing our own kind or stealing of physical and tangible property of our neighbors. One would not find it difficult to see why stealing lawn mover from next door is unthical but may fail to comprehend ethical questions concerning, say, copyright and cloning. Biologically we simply do not have the faculty necessary to do this. This is the perils of modern life. This is the reality that our society has to deal with any new invention that demands an ethical disecting. Do we have the right tools to determine it ourselves? Do we have tools to decipher science and translate it into clearcut ethical choices that a democratic society opt in or opt out?
